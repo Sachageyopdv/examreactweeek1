@@ -1,0 +1,11 @@
+.selectRow {
+  width: 70%;
+  padding: 20px;
+}
+
+.fit {
+  width: fit-content;
+  block-size: fit-content;
+  margin-left: 15px;
+  margin-top: 5px;
+}
