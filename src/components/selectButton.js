@@ -28,7 +28,7 @@ const SelectButton = ({ name, fields }) => {
         ))}
         {!selectedField && (
           <p style={{ color: "red", fontSize: "10px" }}>
-            Ce champs doit être renseigné
+            Ce champ doit être renseigné
           </p>
         )}
       </Row>
